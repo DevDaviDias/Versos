@@ -90,7 +90,7 @@ section#imagem01{
 
 section#imagem02{
     background-image: url('imagens/sim.jpg'); 
-
+    background-position: right center;
 }
 footer{
     background-color: black;
